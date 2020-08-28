@@ -1,0 +1,60 @@
+.h1 {
+font-family: 'Sriracha', cursive;
+font-size: 3rem;
+}
+
+.colored-section {
+  background-color: #8a2be2;
+}
+
+.jennie-description {
+  font-family: 'Karla', sans-serif;
+  font-size: 3.5rem;
+  padding: 5% 15%;
+}
+
+.jennie {
+  border-radius: 100%;
+}
+
+body {
+  font-family: 'Karla', sans-serif;
+  text-align: center;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+  font-size: 1.5rem;
+  padding-right: 5%;
+}
+
+.navbar-brand {
+  font-family: 'Sriracha', cursive;
+  font-size: 2.9rem;
+  font-weight: bold;
+  padding-left: 15%;
+  padding-top: 1%;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+#title {
+  padding: 3% 15% 8% 3%;
+}
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+.icon {
+  color: #ff69b4;
+}
+.icon:hover {
+  color: #800080;
+}
+
+.carousel-inner {
+  max-height: 500px;
+  min-height: 600px;
+}
